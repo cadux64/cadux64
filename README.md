@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Oi, eu sou o Cadu!
 
-<!--
-**cadux64/cadux64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Sobre mim
+Apaixonado por tecnologia desde 2007, quando tive meu primeiro contato com a internet através do Warcraft III. Desde então, me aventurei em diversas áreas: design, programação, infraestrutura, suporte e nuvem. Cada nova descoberta reforça minha paixão pelo futuro da tecnologia.
 
-Here are some ideas to get you started:
+Atualmente trabalho como Suporte de TI, mas meu foco é a área de Infraestrutura e DevOps. Tenho experiência em Windows Server 2019 e Ubuntu Server em home labs, sempre buscando aprender algo novo e útil. No momento, estou voltado para automações e Inteligência Artificial.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height=40 alt="windows" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height=40 alt="linux" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" height=40 alt="apple" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=40 alt="python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height=40 alt="nodejs" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=40 alt="js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height=40 alt="azure" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" height=40 alt="grafana" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height=40 alt="photoshop" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" height=40 alt="powershell" />
+
+---
+
+## 📚 Conhecimentos
+- **Sistemas Operacionais:** Windows (7, 8, 10, 11), Linux (Ubuntu, Arch Linux), MacOS;
+- **Administração:** Active Directory, SCCM, Azure, ITSM;
+- **Scripting & Automação:** PowerShell, Python, VBScript, Bats; 
+- **Monitoramento:** Zabbix, Grafana;
+- **Idiomas:** Português, Inglês, Espanhol, Japonês, Alemão.
+
+---
+
+## 🌐 Onde me encontrar
+<a href="https://www.linkedin.com/in/cdamarate" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:cdamarate@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+---
+
+> 💡 Sempre aberto a aprender, compartilhar e contribuir com a comunidade!
