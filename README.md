@@ -3,7 +3,7 @@
 ## 📌 Sobre mim
 Apaixonado por tecnologia desde 2007, quando tive meu primeiro contato com a internet através do Warcraft III. Desde então, me aventurei em diversas áreas: design, programação, infraestrutura, suporte e nuvem. Cada nova descoberta reforça minha paixão pelo futuro da tecnologia.
 
-Atualmente trabalho como Suporte de TI, mas meu foco é a área de Infraestrutura e DevOps. Tenho experiência em Windows Server 2019 e Ubuntu Server em home labs, sempre buscando aprender algo novo e útil. No momento, estou voltado para automações e Inteligência Artificial.
+Atualmente trabalho como Suporte de TI, mas meu foco é a área de Infraestrutura e DevOps. Tenho experiência em Windows e Ubuntu Server em home labs, sempre buscando aprender algo novo e útil. No momento, estou voltado para automações e Inteligência Artificial.
 
 ---
 
